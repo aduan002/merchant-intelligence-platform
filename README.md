@@ -88,7 +88,7 @@ README.md               # Project documentation
 ## Power BI Dashboards
 All dashboards are built on the gold star schema layer for consistency and performance.
 
-### 🟦 1. Executive KPI Overview
+### 1. Executive KPI Overview
 
 ![Executive KPI Overview](/images/olist_powerbi_1_Sales,%20Customers%20&%20Delivery%20Performance.png)
 
@@ -97,7 +97,7 @@ The platform generated 15.84M in gross revenue across 99K orders, with an averag
 
 ---
 
-### 🟩 2. Customer Analytics
+### 2. Customer Analytics
 
 ![Customer Analytics](/images/olist_powerbi_2_Customer%20Behavior%20&%20Retention.png)
 
@@ -106,7 +106,7 @@ Customer activity is primarily driven by new customers, with returning customers
 
 ---
 
-### 🟧 3. Seller & Delivery Performance
+### 3. Seller & Delivery Performance
 
 ![Seller & Delivery Performance](/images/olist_powerbi_3_Delivery%20&%20Operations%20Performance.png)
 
@@ -115,7 +115,7 @@ Average delivery times are longest in Roraima, Amapá, and Amazonas, exceeding 2
 
 ---
 
-### 🟪 4. Payments & Financial Behavior
+### 4. Payments & Financial Behavior
 
 ![Payments & Financial Behavior](/images/olist_powerbi_4_Payment%20&%20Financial%20Behavior.png)
 
