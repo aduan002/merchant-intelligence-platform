@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+__pycache__
+*.pyc
+infra/minio/data/
+data/raw/*/*.csv
