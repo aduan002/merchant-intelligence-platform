@@ -135,8 +135,8 @@ This project is fully containerized and can be run locally using Docker and Dock
 
 ### Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/aduan002/merchant-intelligence-platform.git
+cd https://github.com/aduan002/merchant-intelligence-platform.git
 ```
 
 ### Build and Start the Infrastructure
