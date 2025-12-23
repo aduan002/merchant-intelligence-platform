@@ -186,7 +186,7 @@ http://localhost:5050/
 ### Open the Power BI Report
 1. Open the file `power-bi/olist.pbix`
 2. Update the PostgreSQL connection if needed:
-- Host: `locahost`
+- Host: `localhost`
 - Port: `5432`
 3. Refresh the dataset.
 4. All dashboards will now load from your local data warehouse.
